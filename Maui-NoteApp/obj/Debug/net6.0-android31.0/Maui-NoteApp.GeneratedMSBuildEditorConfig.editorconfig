@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net6.0-android31.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Maui_NoteApp
+build_property.ProjectDir = D:\Projects.new\Maui\Maui-bug\Maui-NoteApp\
+
+[D:/Projects.new/Maui/Maui-bug/Maui-NoteApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui_NoteApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Projects.new/Maui/Maui-bug/Maui-NoteApp/Controls/FlyoutHeaderControl.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui_NoteApp.Controls.FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\FlyoutHeaderControl.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\FlyoutHeaderControl.xaml
+
+[D:/Projects.new/Maui/Maui-bug/Maui-NoteApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui_NoteApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Projects.new/Maui/Maui-bug/Maui-NoteApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui_NoteApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Projects.new/Maui/Maui-bug/Maui-NoteApp/Views/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui_NoteApp.Views.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AppShell.xaml
+
+[D:/Projects.new/Maui/Maui-bug/Maui-NoteApp/Views/Startup/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Maui_NoteApp.Views.Startup.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Startup\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Startup\LoginPage.xaml

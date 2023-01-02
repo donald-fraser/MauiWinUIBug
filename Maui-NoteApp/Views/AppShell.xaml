@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="Maui_NoteApp.Views.AppShell"    
+    xmlns:viewModels="clr-namespace:Maui_NoteApp.ViewModels"
+    xmlns:dashboardPages="clr-namespace:Maui_NoteApp.Views.Dashboard"
+    xmlns:startupPages="clr-namespace:Maui_NoteApp.Views.Startup"
+    Shell.FlyoutBackgroundColor ="White"
+    Shell.TabBarIsVisible="False">
+
+    <ShellContent
+        Title="Login Page" FlyoutItemIsVisible="False" Shell.FlyoutBehavior="Disabled"
+        ContentTemplate="{DataTemplate startupPages:LoginPage}"
+        Route="LoginPage" />
+
+
+    <Shell.FlyoutFooter>
+        <StackLayout Padding="20">
+            <Button Text="Sign Out" />
+        </StackLayout>
+    </Shell.FlyoutFooter>
+
+</Shell>
